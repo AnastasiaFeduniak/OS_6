@@ -1,0 +1,1026 @@
+Using a microscopic syringe fashioned out of protein, bacteria inject an arsenal of virulent proteins into plant cells, inflicting disease and devastating crops.1 Plant microbiologists at Duke University study these proteins with the hope of discovering drugs that could shield plants from their offensives. In a study in Nature, Sheng Yang He from Duke University and his colleagues uncovered the structure and function of a large family of virulent proteins that eluded scientists for a quarter of a century.2 This information guided the researchers to develop a novel treatment for crop disease.
+
+Among the slew of virulent proteins that bacteria inject into plant cells are Avirulence protein E (AvrE) and its relatives.3 “This protein has been known for 25 years, and people have tried to work with it, but it’s very large, and its size has made it very difficult to produce protein to study,” noted Jeff Dangl, a plant immunologist at the University of North Carolina who was not involved with the work. What’s more, He noted, “It’s actually toxic to plants, yeast, animal cells—any cell it touches.” This hampers experiments to study protein function. 
+
+These proteins are highly conserved in structure across bacterial species, making them ideal targets for new drugs, so He and his colleagues were determined to unravel their functions.4 First, the team deciphered the structure of AvrE and its relatives. Structural analysis of large proteins is difficult with experimental techniques alone, so they turned to the machine learning tool AlphaFold2.5,6 
+
+The team found that four related proteins from different bacterial species all adopted a similar shape, each carrying a hollow barrel, implying that they may behave as transport channels if inserted in the cell membrane. “One of the key breakthroughs in this story was the use of AlphaFold to predict a structure, and that allowed the authors to immediately come up with a hypothesis because the predicted structure suggested a clear function,” Dangl noted.
+
+See also: “Lasker Award for Revolutionizing Protein Structure Predictions”
+To explore whether these channels transport ions, He and his team injected frog eggs with mRNA coding for two of the virulent proteins. Frog eggs are a useful model for studying the electric currents induced by ion transport across cell membranes because they naturally possess fewer of their own ion channels than most cell types and thus produce less background signal.7 
+
+The team found that the virulence proteins induced electric currents across the membrane when a voltage was applied, suggesting that the channels lodge themselves within the membrane and allow ions to cross freely through their hollow barrels. Coincidentally, they also noticed swelling in the eggs that carried the proteins and hypothesized that the channels could also transport water. To test this, they moved the eggs into a simple water solution with a lower ion concentration than inside the frog eggs. This imbalance resulted in water rushing into eggs expressing the channels, causing them to swell and burst. Thus, the team confirmed that the channels transport water as well as ions across the cell membrane.
+
+
+From their structural analysis, the researchers predicted that the channels have an opening 15 to 20 ångströms (Å) wide—approximately one-millionth of the width of a paper straw. So, they next tested whether the channels could also transport complex compounds. Large compounds like fluorescent proteins measuring 30 Å in width did not traffic into the frog eggs, but smaller compounds like the 7 Å-wide fluorescein entered easily.
+
+The big question is how these channels benefit the bacteria. “Bacterial pathogens live in the spongey air space inside a leaf, and that space is pretty dry,” Dangl said. Bacteria need moisture to grow but they can’t breach the cell wall to directly access the plant’s resources. Therefore, they drain surrounding cells in a process called water soaking.8 The team speculated that these channels might be key players for sourcing water and nutrients from the cells. In the future, the research team plans to capture these channels in action within the leaf by measuring the flow of fluorescently labelled compounds.
+
+Finally, the team searched for compounds that block the channel and limit disease. For this, they turned to polyamidoamine G1, a polymer measuring 22 Å that is wider than the channel diameter. This drug showed promise in frog eggs: It blocked the ion currents, swelling and bursting, and uptake of fluorescein. 
+
+
+See also: “DeepMind AI Speeds Up the Time to Determine Proteins’ Structures”
+Polyamidoamine G1 successfully prevented disease in plants, too. The drug stopped two common crop pathogens, Erwinia amylovora and Pseudomonas syringae, from producing disease symptoms in plants, including dark boils known as fire blight on pears and brown spots (dead cells) on the leaves of the model plant Arabidposis thaliana.9,10 In future work, He plans to resolve the structure of the drug bound to one of the proteins to determine how it blocks the channel.
+
+The drug did not inhibit bacterial growth in the lab even though it staved off disease in plants, suggesting that it doesn’t kill bacteria like an antibiotic but instead limits their virulence. Alternatively, it’s possible that the plant immune system cleared the infection when stimulated by the drug; however, the team did not detect activation of plant immune proteins, suggesting that the protective effect came down to channel inhibition.
+
+“This will be applicable to all bacterial pathogens that contain this family of proteins. There are many of them, and they are major pathogens,” He said. Aside from preventing fire blight in apple and pear trees, the drug may combat a pandemic strain of P. syringae that ravages kiwifruit across Asia, Europe, and New Zealand, he suggested.
+
+“I’m really excited about this research, which really employed cutting-edge structural biology technologies to solve a long sought after mechanism of an important virulent protein produced by bacterial plant pathogens,” said Wenbo Ma, a microbiologist at the Sainsbury Laboratory who was not involved with the work but who has collaborated with one of the authors in the past.
+
+“This is a very unique target that’s not produced by eukaryotes,” Ma said. Drugs that target bacterial proteins bearing little similarity to host proteins are ideal as they may be less likely to cause side effects in the host. “But whether this particular compound can affect other unrelated proteins or functions, we don’t know, and that needs to be tested,” she added.
+
+What will the imminent volcanic eruption in Iceland really look like?
+News
+By Harry Baker published about 8 hours ago
+Experts have warned that an underground magma tunnel between a pair of Icelandic towns could erupt at any moment. But what will this eruption look like? And how far-reaching will its effects be?
+
+To keep up with the latest developments about the impending eruption, check out our live updates page.
+
+Officials in Iceland are preparing for an imminent volcanic eruption from a submerged tunnel of magma, which could unleash superhot lava flows on nearby towns, a vital power plant and an iconic tourist destination.
+
+The tunnel of molten rock, known as a magma dike, stretches for around 9.3 miles (15 kilometers) between Grindavík and Sundhnúk in Iceland's Reykjanes Peninsula. The underground dike has triggered thousands of earthquakes and caused significant ground deformation that has opened up sinkholes in the surface and cracks in nearby buildings and roads. As a result, local residents have been evacuated. 
+
+But this is likely just the beginning.
+
+The Icelandic Meteorological Association (IMO) has warned that a full-blown eruption is almost certainly on its way. And other experts have suggested that the eruption could be part of a more explosive, centuries-long eruption phase for the region. 
+
+Related: Supervolcano 'megabeds' discovered at bottom of sea point to catastrophic events in Europe every 10,000 to 15,000 years
+
+So what exactly is happening underground? What would an eruption actually look like? And how damaging could an outburst really be?
+
+What's happened so far? 
+On Oct. 25, seismic activity began to ramp up in the area. There were thousands of earthquakes within the space of a few hours — including two major quakes with magnitudes of 3.9 and 4.5. Seismic unrest has continued in the area since then, including a 4.8-magnitude quake on Nov. 9. 
+
+The earthquakes and ground deformation are being caused by magma entering, or intruding, into the dike at multiple points. The vast underground tunnel was first properly mapped on Nov. 11. At the time, the magma was at a minimum depth of about 2,600 feet (800 m) below the surface.
+
+The dike sits on top of an underground crack, or fracture, in the tectonic plate beneath Iceland, Benjamin Andrews, a geologist at the Smithsonian Institute's National Museum of Natural History and director of the institute's Global Volcanism Program, told Live Science in an email. As more magma enters the dike from below, the crack will continue to grow, he added. 
+
+If the crack continues to grow and magma gets close enough to the surface, "an eruption will likely occur, " Andrews said.
+
+What will an eruption look like? 
+A river of lava flowing from a volcano in Iceland
+
+Most of Iceland's volcanic eruption consist of slow-moving lava flows that wind like rivers across the surface. (Image credit: Getty Images)
+In general, while Iceland is volcanically very active, eruptions there are quite tame: For the most part, magma slowly seeps out of the ground rather than exploding outward.
+
+The lava is extremely hot, between 2,000 and 2,200 Fahrenheit (1,100 and 1,200 degrees Celsius) and can shoot out of the ground, Malcolm Hole, a volcanologist at the University of Aberdeen, said in a video posted on X (formerly known as Twitter). However, the molten rock has the "same sort of runniness" as golden syrup, so lava flows will move very slowly across the surface, he added. 
+
+The lava also follows Earth's topography, "the same ways as a river would," Hole said. This makes it easy to predict where it will move.
+
+Thorvaldur Thordarson, professor of volcanology at the University of Iceland, told the Iceland Monitor that most of the lava would probably move west and into the sea. But "something always goes the other way," he added.
+
+So how big could this eruption be? "It would likely be broadly similar to the Fagradasfjall eruption in 2021," when lava flows poured out of the main volcano in the Fagradasfjall volcanic fields, which is also located on the Reykjanes Peninsula, about 6.2 miles (10 km) away, Andrews said. This eruption near constantly spat up magma for more than six months, according to the IMO. 
+
+Similar eruptions have also recently occurred from a baby volcano near Fagradasfjall, which was born in June this year. 
+
+When will it erupt? 
+Hikers look at the lava flowing from the erupting Fagradalsfjall volcano near Reykjavik, Iceland, on March 21, 2021.
+
+Hikers get up close and personal to the erupting Fagradalsfjall volcano in 2021. (Image credit: Jeremie Richard/AFP via Getty Images)
+The latest IMO statement continues to warn that there is a "significant likelihood of a volcanic eruption in the coming days." 
+
+But there is no accurate way of telling if the eruption will occur in hours, days or weeks, Andrews said.
+
+There is also still a chance that "the intrusion [of magma into the dike] could end with no eruption," Andrews said. Although the IMO seems pretty convinced that it will, he added. 
+
+"I predict — if an eruption occurs — that it will occur between a few days to threeish weeks," Edward W. Marshall, a researcher at the University of Iceland's Nordic Volcanological Center, told Live Science in a recent article. "If it hasn't erupted in three weeks, I don't think it will happen." After then, "cooling will begin to close the fractures," he added.
+
+Will an eruption halt air traffic? 
+A massive plume of smoke and ash rising from a volcano
+
+An enormous column of ash and smoke billows out of the Eyjafjallajökull volcano in 2010. (Image credit: Paul Souders via Getty Images)
+In 2010, the eruption of Iceland's Eyjafjallajökull volcano created an enormous eruption plume that grounded most air traffic above Europe for more than a week, causing travel disruption for around 7 million people, according to the U.S. Geological Survey.
+
+Unlike most other eruptions in Iceland, the Eyjafjallajökull eruption was very violent. This was because the volcano was covered with a thick sheet of ice, which exploded outward with great force when the magma rose up and made contact with it, Hole said. This unusual explosion meant that more ash, smoke and water vapor were ejected than normal, he added.
+
+But the current volcanic dike is not covered in ice, meaning, "an eruption at the current site of unrest is unlikely to produce an ash cloud similar to that which disrupted air travel in 2010," Andrews said. Although there will be an eruption plume, he added.
+
+Will toxic gases be released? 
+On Nov. 14, IMO sensors near Grindavík detected sulfur dioxide, a toxic volcanic gas, seeping out of the ground, IMO representatives wrote on X. This has led to speculation that an eruption could release high levels of the toxic gas, which could impact anyone who remains in the area. 
+
+"The majority of gas released in an eruption will most likely be water that was originally dissolved in the magma at depth," Andrews said. However, other gases, including sulfur dioxide and carbon dioxide, will also be released, he added.
+
+During past eruptions in Iceland, such as the eruption of Bárðarbunga in 2014 and 2015, volcanic gases caused problems with air quality in the country, Andrews said. "But I am not aware of any forecasts about potential hazardous gas emissions" from a impending eruption at Grindavík, he added.
+
+Which locations are at risk? 
+A geothermal power plant in Iceland with steam rising from vents
+
+The Svartsengi power plant, which is within striking distance of any possible eruption, runs off the same geothermal energy that drives volcanic eruptions. (Image credit: Nejc Gostincar via Getty Images)
+Of the two towns that straddle the magma dike, Grindavík is the closest and most at risk, according to the IMO. Most of the town's roughly 2,800 residents have already been evacuated and are unlikely to permanently return unless the threat of an eruption recedes.  
+
+RELATED STORIES
+—Russia's tallest volcano spews out 1,000-mile-long river of smoke after giant eruption, satellite images reveal
+
+—Underwater volcanic eruption gives birth to new island in the Pacific
+
+—Astronaut captures image of a glowering 'skull' lurking in a giant volcanic pit in the Sahara 
+
+The Blue Lagoon resort, a famous geothermal spa that attracts more than 700,000 annual visitors, is around 3 miles (5 km) from the dike. The site has been closed to tourists until at least the end of the month, so people will not be in danger. But the lagoon could still be damaged by lava flows.
+
+The geothermal Svartsengi power plant — which provides energy across the country and supplies hot water to local towns and villages — is located around 4 miles (6 km) from the dike. But work has already begun to dig trenches around the site to divert lava away from the site if it heads that way.
+Lost in Math
+Posted on June 7, 2018 by woit
+Sabine Hossenfelder’s new book Lost in Math should be starting to appear in bookstores around now. It’s very good and you should get a copy. I hope that the book will receive a lot of attention, but suspect that much of this will focus on an oversimplified version of the book’s argument, ignoring some of the more interesting material that she has put together.
+
+Hossenfelder’s main concern is the difficult current state of theoretical fundamental physics, sometimes referred to as a “crisis” or “nightmare scenario”. She is writing at what is likely to be a decisive moment for the subject: the negative LHC results for popular speculative models are now in. What effect will these have on those who have devoted decades to studying such models?
+
+Back in 2006 Lee Smolin and I published books concerned about where fundamental physics was heading, and five years ago Jim Baggott’s Farewell to Reality appeared with another take on these issues. Hossenfelder’s is the first book on this topic to appear since the LHC results showing a vanilla Standard Model Higgs and no evidence of supersymmetry or other speculative BSM physics. The remarkable thing she has done is to address this in a characteristically direct manner: go talk to those responsible and ask them what they have to say for themselves.
+
+Four of the people that Hossenfelder interviews would be on any short list of the most influential figures in theoretical particle physics, both responsible for where we are now by their past actions, and looked to by others for a vision of where the field is going next. They are Nima Arkani-Hamed, Steven Weinberg, Frank Wilczek, and Joe Polchinski.
+
+Arkani-Hamed is introduced with:
+
+He’s won loads of awards, including the inaugural 2012 Breakthrough Prize for “original approaches to outstanding problems in particle physics.” The problems are still outstanding. So is Nima.
+
+and here’s an extract from the interview
+
+“Has the LHC changed your perspective on naturalness?” I ask.
+
+“It’s interesting–there is this popular narrative now that theorists before the LHC were totally sure that susy will show up, but now there’s a big blow. I think that the people who are professional model builders, the people I consider to be the best people in the field, they were worried already after LEP… The good people, they were not at all sure susy would show up at the LHC. And nothing has changed qualitatively since 2000. Some loopholes have been closed, but nothing has changed qualitatively…”
+
+As with many of the interviews, Hossenfelder intersperses her own internal response to what she’s hearing:
+
+But not one of those “best people” spoke up and called bullshit on the widely circulated story that the LHC had a good chance of seeing supersymmetry or dark matter particles.
+
+She doesn’t mention, but surely is aware, that many prominent theorists pre-LHC had made public bets that the LHC would find SUSY, and that those wagering this way included Arkani-Hamed himself. For accounts of the 2016 Copenhagen event where the bet was paid off, see here and here. You can read there what Arkani-Hamed had to say then about losing the bet, and the quote:
+
+“I think Winston Churchill said that in victory you should be magnanimous,” Damgaard said after Arkani-Hamed’s talk. “I know also he said that in defeat you should be defiant. And that’s certainly Nima.”
+
+In the interview with Hossenfelder, Arkani-Hamed goes on to say:
+
+The people who were sure it would be there are now positive it’s not there. There are people now who speak out about being depressed or worried or scared. It drives me nuts. It’s ludicrously narcissistic. Who the fuck cares about you and your little life?
+
+There’s a lot more in the interview and you should get the book and read the whole thing. Hossenfelder does a wonderful job of portraying both Arkani-Hamed’s serious arguments and his aggressive “Damn the torpedoes” self-confident attitude. This is not someone who is going to admit that, whatever bet he lost, some failure has occurred that indicates this is a time for reflection on mistakes made and reevaluation of the path forward.
+
+Hossenfelder travels to Austin, Texas to talk to Steven Weinberg, who it appears may not realize she is a physicist, just has been told he is supposed to talk to a “writer”. She notes that:
+
+Weinberg doesn’t talk with you, they told me, he talks at you. Now I know what they mean. And let me tell you, he talks like a book, almost print-ready.
+
+I won’t try and reproduce much of her conversation with Weinberg, the multiverse is a main topic (she thinks it’s an empty idea, Weinberg is willing to go along with it). About where particle theory is headed, Weinberg says:
+
+I don’t know how much elementary particle physics can improve over what we have now. I just don’t know. I think it’s important to try and continue to do experiments, to continue to build large facilities… But where it will end up I don’t know. I hope it doesn’t just stop where it is now. Because I don’t find this entirely satisfying…
+
+I don’t take seriously any negative conclusion that the fact that the LHC hasn’t seen anything beyond the standard model shows that there isn’t anything that will solve the naturalness problem… Supersymmetry hasn’t been ruled out because it’s too vague about what it predicts.
+
+Her next interviewee is Frank Wilczek, who she finds in Tempe, Arizona. His take on string theory unification is rather negative:
+
+… it’s not clear what the theory is. It’s kind of miasma of ideas that hasn’t yet taken shape, and it’s too early to say whether it’s simple or not–or even if it’s right or not. Right now it definitely doesn’t appear simple.
+
+Asked about the argument that string theory could reproduce gravity, Wilczek responds:
+
+If your standards are low enough, yes. But I don’t think we should compromise on this idea of post-empirical physics. I think that’s appalling, really appalling… If there was any bit of experimental evidence that was decisive and in favor of the theory, you wouldn’t be hearing these arguments. You wouldn’t. Nobody would care. It’s just a fallback. It’s giving up and declaring victory. I don’t like that at all.
+
+Wilczek is still unwilling to give up on SUSY and the idea of a SUSY GUT, with his main argument the coupling constant unification calculation he did with Dimopoulos and Raby back in 1981:
+
+“They haven’t found susy partners, though,” I say. “Is this something that worries you?”
+
+“I am starting to get worried, yes. I never thought it would be easy. There have been bounds from [the LEP experiments] and proton decay for a long time, and this indicated that a lot of the superpartners have to be heavy. But we have another good shot with the [LHC] energy upgrade. Hope springs eternal… I would definitely not believe in supersymmetry if it wasn’t for the unification of gauge couplings, which I find very impressive. I can’t believe that’s a coincidence.”
+
+It’s not mentioned in this book [actually, she does mention this], but Wilczek has already paid off one bet about SUSY (with Garrett Lisi) and likely will have to pay off another next year. I don’t know if by “energy upgrade” he’s thinking of the HE-LHC, or the 100 km much bigger proposed ring, but in any case those won’t happen before at least 2040. No matter what happens, I don’t think Wilczek will ever change his mind about the SUSY-GUT paradigm he has found attractive since the 1980s.
+
+In January 2016 Hossenfelder traveled to Santa Barbara to talk to Joe Polchinski, who was already sick with the brain cancer that ultimately would take his life two years later. Unlike Wilczek, Polchinski was a fan of string theory and of evaluating it by “post-empirical” criteria. He at one point published a “Bayesian” calculation arguing that string theory is correct with probability “over 3 sigma” (i.e. over 99.7%). Asked about prospects for a unified theory, Polchinski says:
+
+I think string theory is incomplete. It needs new ideas… But string theory has been so successful that the people who are going to make progress are the people who will be building on this idea.
+
+Arkani-Hamed, Weinberg, Wilczek and Polchinski reflect a range of points of view about the current situation and what it means. Unfortunately it seems to me that they share an unwillingness to face up to failure, and this doesn’t bode well for the future of particle theory, with “more of the same” the agenda that is being set.
+
+Besides these four interviews, the book also contains accounts of meeting and discussions with quite a few other physicists, all well worth reading, and often written with a sly humor. The description of visiting Garrett Lisi on Maui is not to be missed, and he has a lot of sensible things to say (“For a surf bum, he’s surprisingly intellectual” the author writes). He tells the story of how Jacques Distler and others threatened (unsuccessfully) to organize a boycott of Scientific American if it published an article by him. In addition to the interviews there’s a great deal of valuable discussion of the problems with the way research is organized and the reward structures scientists operate under (for instance, publicly admitting failure is definitely on the “not encouraged” list).
+
+So far I’ve ignored the main framing device that Hossenfelder uses throughout the book, that of her questioning the idea of “beauty” as a motivation for evaluating ideas about physics. This is not because I disagree all that much with what she writes, but instead that I fear a complex set of issues is likely to get over-simplified, and this over-simplified version of the book’s argument is all that much of the public is ever going to hear about it. Hossenfelder explains that the concept of “beauty” she is challenging is a specific set of ideas about “symmetry, unification and naturalness” that she sees as dominating physics research. I agree that there’s a problem with this specific set of ideas and how they have been used, but I’d keep them separate and don’t see putting them together as “beauty” to be helpful. At various points she makes it clear that her worry is that we are getting stuck due to outdated notions of “beauty”, while still believing that successful new ideas will come with a new form of “beauty”.
+
+The book ends with
+
+We know that the laws of nature we presently have are incomplete. To complete them, we have to understand the quantum behavior of space and time, overhauling either gravity or quantum physics, or maybe both. An the answer to this will without doubt raise new questions…
+
+…There’s much work to do. The next breakthrough in physics will occur in this century.
+
+It will be beautiful.
+
+Update: Science magazine has a review. For some reason they seem to have decided it was a good idea to have the book reviewed by a postdoc doing exactly the sort of work the book is most critical of. The review starts off by quoting nasty anonymous criticism of Hossenfelder from someone the reviewer knows on Facebook. Ugh.
+
+Update: I’ve written a similar but somewhat different version of this review for MAA Reviews, one aimed more at mathematicians.
+
+
+Update: More reviews here and here, as well as a posting from Hossenfelder where she explains her current professional situation in the context of deciding to write the book.
+
+Update: I’m glad to see that Science has edited the review there to remove the use of an unattributed quote.
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+v
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
+Britain’s drugs regulator has approved a groundbreaking treatment for two painful and debilitating lifelong blood disorders, which works by “editing” the gene that causes them.
+
+The Medicines and Healthcare products Regulatory Agency (MHRA) has given the green light for Casgevy to be used to treat sickle cell disease and beta thalassemia.
+
+It is the first medicine licensed anywhere that works by deploying gene editing that uses the “genetic scissors”, known as CRISPR, for which its inventors won the Nobel prize for chemistry.
+
+Casgevy’s developers hope the pioneering treatment could banish the pain, infections and anaemia sickle cell disease brings and the severe anaemia experienced by those with beta thalassemia.
+
+About 15,000 people in the UK, almost all of African or Caribbean heritage, have sickle cell disease. About 1,000 – mainly of Mediterranean, south Asian, south-east Asian and Middle Eastern background – have beta thalassemia and need regular blood transfusions to treat their anaemia.
+
+Experts in the illnesses hope Casgevy may be a cure, making it no longer necessary for people with the conditions to have a bone marrow transplant. Until now this has been the only treatment available, even though the body can reject the donor marrow.
+
+The Sickle Cell Society welcomed the MHRA’s decision as a “historic moment for the sickle cell community” which “offers [them] newfound hope and optimism”.
+
+The charity added that the approval of Casgevy, made by Vertex Pharmaceuticals, was “empowering the NHS to employ it as a groundbreaking therapeutic intervention for those grappling with this condition, [which is] marked by chronic anaemia, recurrent episodes of intense pain requiring hospitalisation, organ damage, an elevated risk of stroke and premature mortality”.
+
+Sickle cell disease and beta thalassemia are genetic, or inherited, conditions caused by errors in the genes for haemoglobin, a protein that lets red blood cells transport oxygen around the body. Both conditions can be fatal.
+
+The MHRA said: “Casgevy is designed to work by editing the faulty gene in a patient’s bone marrow stem cells so that the body produces functioning haemoglobin. To do this, stem cells are taken out of bone marrow, edited in a laboratory and then infused back into the patient, after which the results have the potential to be lifelong.”
+
+During that process, laboratory staff use the “genetic scissors” to edit, or cut, the DNA of the cells from the patient’s bone marrow, before the treated cells are put back through infusion.
+
+The MHRA said patients may need to spend at least a month in hospital while the treated cells “take up residence in the bone marrow and start to make red blood cells with the stable form of haemoglobin”.
+
+In a clinical trial of Casgevy for sickle cell disease, 28 of the 29 patients experienced no episodes of major pain – which can lead to them being hospitalised – for at least a year afterwards.
+
+When the treatment was used for those with beta thalassemia, 39 of the 42 trial participants did not need to have a red blood cell transfusion for at least 12 months after receiving Casgevy.
+
+Dr Sara Trompeter, a consultant haematologist at University College hospital London and expert in sickle cell disease, said: “Whilst curative treatments may not be suitable for all, gene therapy offers a real chance of cure for those who are not eligible for bone marrow transplants and so we are delighted that it has been approved by MHRA.”
